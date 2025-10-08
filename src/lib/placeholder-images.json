@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "event-hamlet",
+      "description": "A dramatic stage play showing a character in deep thought.",
+      "imageUrl": "https://picsum.photos/seed/hamlet/400/600",
+      "imageHint": "theatre play"
+    },
+    {
+      "id": "event-cats",
+      "description": "A vibrant musical with dancers in cat costumes on stage.",
+      "imageUrl": "https://picsum.photos/seed/cats/400/600",
+      "imageHint": "musical theatre"
+    },
+    {
+      "id": "event-illusionist",
+      "description": "A magician performing a card trick on a dark stage.",
+      "imageUrl": "https://picsum.photos/seed/illusionist/400/600",
+      "imageHint": "magic show"
+    },
+    {
+      "id": "event-symphony",
+      "description": "An orchestra performing in a grand concert hall.",
+      "imageUrl": "https://picsum.photos/seed/symphony/400/600",
+      "imageHint": "orchestra concert"
+    },
+    {
+      "id": "event-comedy",
+      "description": "A stand-up comedian on stage with a microphone.",
+      "imageUrl": "https://images.unsplash.com/photo-1610964199994-6416eb887998?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzdGFuZC11cCUyMGNvbWVkeXxlbnwwfHx8fDE3NTk3Nzc1NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stand-up comedy"
+    },
+    {
+      "id": "event-opera",
+      "description": "An opera singer performing dramatically on stage.",
+      "imageUrl": "https://picsum.photos/seed/opera/400/600",
+      "imageHint": "opera performance"
+    },
+    {
+      "id": "user-avatar-1",
+      "description": "A smiling person's avatar.",
+      "imageUrl": "https://images.unsplash.com/photo-1750535135593-3a8e5def331d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBhdmF0YXJ8ZW58MHx8fHwxNzU5NzY5MDM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "user-avatar-2",
+      "description": "A person with glasses, avatar.",
+      "imageUrl": "https://images.unsplash.com/photo-1623582854588-d60de57fa33f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBhdmF0YXJ8ZW58MHx8fHwxNzU5NzY5MDM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar"
+    }
+  ]
+}
